@@ -1,5 +1,5 @@
 {
-  "name": "todo-app",
+  "name": "-cw-04-new-davidbenj15-",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,10 +10,10 @@
     "prettier": "prettier --write \"src/**/*.js\" --config \".prettierrc.json\""
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
-    "prettier": "3.3.1",
-    "tailwindcss": "^3.4.4",
-    "vite": "^5.2.0"
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
+    "prettier": "3.3.3",
+    "tailwindcss": "^3.4.10",
+    "vite": "^5.4.1"
   }
 }
